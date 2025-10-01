@@ -1,0 +1,8 @@
+D:\КПІ\ПЗКС\PZKS_1\PZKS_1\bin\Debug\PZKS_1.exe.config
+D:\КПІ\ПЗКС\PZKS_1\PZKS_1\bin\Debug\PZKS_1.exe
+D:\КПІ\ПЗКС\PZKS_1\PZKS_1\bin\Debug\PZKS_1.pdb
+D:\КПІ\ПЗКС\PZKS_1\PZKS_1\obj\Debug\PZKS_1.csproj.AssemblyReference.cache
+D:\КПІ\ПЗКС\PZKS_1\PZKS_1\obj\Debug\PZKS_1.csproj.CoreCompileInputs.cache
+D:\КПІ\ПЗКС\PZKS_1\PZKS_1\obj\Debug\PZKS_1.exe
+D:\КПІ\ПЗКС\PZKS_1\PZKS_1\obj\Debug\PZKS_1.pdb
+D:\КПІ\ПЗКС\PZKS_1\PZKS_1\obj\Debug\PZKS_1.exe.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZKS_1", "PZKS_1\PZKS_1.csproj", "{4591BBD5-D771-434F-91E0-03DD07169265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4591BBD5-D771-434F-91E0-03DD07169265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4591BBD5-D771-434F-91E0-03DD07169265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4591BBD5-D771-434F-91E0-03DD07169265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4591BBD5-D771-434F-91E0-03DD07169265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5C9813A-3109-4F15-B2DA-2E63C410DB05}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+D:\КПІ\ПЗКС\PZKS2\PZKS2\bin\Debug\PZKS2.exe.config
+D:\КПІ\ПЗКС\PZKS2\PZKS2\bin\Debug\PZKS2.exe
+D:\КПІ\ПЗКС\PZKS2\PZKS2\bin\Debug\PZKS2.pdb
+D:\КПІ\ПЗКС\PZKS2\PZKS2\obj\Debug\PZKS2.csproj.AssemblyReference.cache
+D:\КПІ\ПЗКС\PZKS2\PZKS2\obj\Debug\PZKS2.csproj.CoreCompileInputs.cache
+D:\КПІ\ПЗКС\PZKS2\PZKS2\obj\Debug\PZKS2.exe
+D:\КПІ\ПЗКС\PZKS2\PZKS2\obj\Debug\PZKS2.pdb
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 2)\PZKS2\bin\Debug\PZKS2.exe.config
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 2)\PZKS2\bin\Debug\PZKS2.exe
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 2)\PZKS2\bin\Debug\PZKS2.pdb
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 2)\PZKS2\obj\Debug\PZKS2.csproj.AssemblyReference.cache
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 2)\PZKS2\obj\Debug\PZKS2.exe.config
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 2)\PZKS2\obj\Debug\PZKS2.csproj.CoreCompileInputs.cache
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 2)\PZKS2\obj\Debug\PZKS2.exe
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 2)\PZKS2\obj\Debug\PZKS2.pdb
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 4)\PZKS2\bin\Debug\PZKS2.exe.config
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 4)\PZKS2\bin\Debug\PZKS2.exe
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 4)\PZKS2\bin\Debug\PZKS2.pdb
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 4)\PZKS2\obj\Debug\PZKS2.csproj.AssemblyReference.cache
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 4)\PZKS2\obj\Debug\PZKS2.exe.config
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 4)\PZKS2\obj\Debug\PZKS2.csproj.CoreCompileInputs.cache
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 4)\PZKS2\obj\Debug\PZKS2.exe
+D:\КПІ\ПЗКС\PZKS2(Лабораторна робота 4)\PZKS2\obj\Debug\PZKS2.pdb
